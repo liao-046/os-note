@@ -6,7 +6,7 @@
 - Operator sort jobs
 - process one job at a time
 
--Drawbacks:
+- Drawbacks:
     - One job at a time 
     - No interaction
     - CPU idle 
