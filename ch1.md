@@ -7,14 +7,14 @@ OS ch1 筆記整理
 - Operator sort jobs
 - process one job at a time
 
->>Drawbacks:
+>Drawbacks:
 - One job at a time 
 - No interaction
 - CPU idle 
 
->Muti-programming
->Time-sharing
-## Computer-system architecture
-## Special-purpose Systems
+## Muti-programming
+## Time-sharing
+# Computer-system architecture
+# Special-purpose Systems
 
 
