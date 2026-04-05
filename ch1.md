@@ -11,9 +11,24 @@
     - No interaction
     - CPU idle 
 
-### Muti-programming
-### Time-sharing
-## Computer-system architecture
+### Muti-programming (做完才讓出CPU)
+- OS task:
+    - memory management
+    - CPU scheduling
+    - I/O system
+### Time-sharing (Multi-tasking system: time slot)
+- interactive system
+- multi users share the computer simultaneously
+- switch job:
+    - finish
+    - waiting I/O
+    - a short period of time
+
+- OS task:
+    - virtual memory
+    - file system / disk management
+    - process synchronization / deadlock
+## Computer-system architecture  
 ## Special-purpose Systems
 
 
