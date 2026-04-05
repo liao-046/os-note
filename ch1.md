@@ -36,11 +36,10 @@
     - symmetric multiprocessor system (SMP)
     - asymmetric multiprocessor system: one master CPU + multi slave CPUs
 ![Memory access architecture](images/os_2.png)
-- distributed system (loosly coupled system)
+- distributed system (loosly coupled system) **ex: internet**
     - resource sharing
     - load sharing
     - reliability
-    **ex: internet**
 
 ## 🧩Special-purpose Systems
 
