@@ -28,6 +28,8 @@
     - virtual memory
     - file system / disk management
     - process synchronization / deadlock
+
+![Mainframe system summary](images/os_1.png)
 ## Computer-system architecture  
 ## Special-purpose Systems
 
